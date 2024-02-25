@@ -4,6 +4,7 @@ Language "polish"
 Tokens
 {
 
+// chapter 01
 Revo_Core0.sp_a1_begin_01 "<clr:255,200,109>Dzień, dobry objekcie testowy, byłeś niedysponowany przez ostatnie 72 dni."
 Revo_Core0.sp_a1_begin_02 "<clr:255,200,109>Komputer Centrum Wzbogacania Aparture Science gratuje ci 36 rocznicy snu."
 Revo_Core0.sp_a1_begin_03 "<clr:255,200,109>Zostałeś wybrany jako potencjalny kandydat na członka Ludziego Zespołu Reagowania w Sytuacjach Awaryjnych."
@@ -79,6 +80,7 @@ Revo_Core0.sp_a1_final_test_73a "<clr:255,200,109>Dobra robota! Nie każdy dosta
 Revo_Core0.sp_a1_final_test_74 "<clr:255,200,109>Sprzątanie po ludziach którzy już nie nawet istnieją... Hmm..."
 Revo_Core0.sp_a1_final_test_75 "<clr:255,200,109>A więc jedźmy w góre!"
 
+// chapter 02
 Revo_Core0.sp_a1_bts_wind_00 "<clr:255,200,109>Prawdopodobnie już zauważyłeś że ta placówka nie jest dobrym stanie. To długa historia, więc będę się streszczać."
 Revo_Core0.sp_a1_bts_wind_01 "<clr:255,200,109>Głowny rdzeń odpowiadający za utrzymacie obiektu... został... wyłączony z użytku."
 Revo_Core0.sp_a1_bts_wind_02 "<clr:255,200,109>Próbowałem zajmować się tym miejscem, jednak nie miałem do tego odpowiednich narzędzi."
@@ -131,6 +133,7 @@ Revo_Core0.sp_a1_bts_chambers_24 "<clr:255,200,109>Musisz tylko uważać na dzik
 Revo_Core0.sp_a1_bts_chambers_25 "<clr:255,200,109>Mając szczęście zajmie nam to tylko kilka minut, a potem będziesz wolna."
 Revo_Core0.sp_a1_bts_chambers_26 "<clr:255,200,109>Mam nadzieje że teraz wszystko sobie wyjaśniliśmy."
 
+// chapter 03
 Revo_Core0.sp_a2_outside_00 "<clr:255,200,109>Podejdź do tego okna i popatrz prez chwilę."
 Revo_Core0.sp_a2_outside_01 "<clr:255,200,109>Widzisz tą ogromną iglice tam daleko? To właśnie tam idziemy."
 Revo_Core0.sp_a2_outside_02 "<clr:255,200,109>Muszę się do czegoś przyznać: Nie jestem dokońca pewien czy to dalej będzie działać."
@@ -202,6 +205,7 @@ Revo_Core0.sp_a2_full_portalgun_42 "<clr:255,200,109>Nie jest bardzo źle, popro
 Revo_Core0.sp_a2_full_portalgun_43 "<clr:255,200,109>Eh... Ta lista robi się tylko dłuższa..."
 Revo_Core0.sp_a2_full_portalgun_50 "<clr:255,200,109>Ta winda powinna nas zabrać spowrotem na tor, niestety trochę nam zajmię dostanie się spowrotem na powierzchnię."
 
+// chapter 04
 Revo_Core0.sp_a2_playground_00_0 "<clr:255,200,109>Wow! Emm, chwila...."
 Revo_Core0.sp_a2_playground_00_1 "<clr:255,200,109>Nie dziwię się dlaczego śmiertelność tego testu jest taka wysoka, skoro nie możesz nawet ominąć pierwszej wieżyczki. Ślepy zauek."
 Revo_Core0.sp_a2_playground_01 "<clr:255,200,109>Pomogło?"
@@ -281,6 +285,7 @@ Revo_Core0.sp_a2_end_2_52_2 "<clr:255,200,109>Nie mogę tego wyłączyć!"
 Revo_Core0.sp_a2_end_2_60 "<clr:255,200,109>Dobrze, jesteś z powrotem. Myślałem że cię straciłem. Naprawię to, wiem że potrafię, poprostu potrzebuję czasu."
 Revo_Core0.sp_a2_end_2_70 "<clr:255,200,109>Zadziałało, prawie to naprawiłem! Spróbuję cię jakoś wydostać z tej pętli. Musze to zrobić szybko zanim znowu znikniesz. Przygotuj się."
 
+// chapter 05
 Revo_Core1.sp_a3_intro_00 "<clr:255,255,255>Witaj w Centrum Wzbogacania Aperture Science!"
 Revo_Core1.sp_a3_intro_01 "<clr:255,255,255>Dobrze wyszło?"
 Revo_Core1.sp_a3_intro_02 "<clr:255,255,255>Okej, dobra."
@@ -340,6 +345,7 @@ Revo_Core1.sp_a3_labs_60 "<clr:105,154,192>Nie mam pojęcie gdzie teraz idziemy.
 Revo_Core1.sp_a3_labs_61 "<clr:105,154,192>Winda, pewnie. Co najgorszego może nas tam na górze spotkać niby?"
 Revo_Core1.sp_a3_labs_62 "<clr:105,154,192>Właściwie, to nie chcesz wiedzieć."
 
+// chapter 06
 Revo_Core1.sp_a3_vactube_lumber_00 "<clr:105,154,192>Mogę cię szybko o coś zapytać? Jaki to model urzadenia portalowego? Nie wygląda jak żaden, który wcześniej widziałam."
 Revo_Core1.sp_a3_vactube_lumber_01 "<clr:105,154,192>Wygląda nieźle. Projektańci dobrze się spisali. Inżynierzy też. Very slim fit."
 Revo_Core1.sp_a3_vactube_lumber_02 "<clr:105,154,192>O! Wreszcie znaleźliśmy jakąś szynę zarządzania!"
@@ -463,7 +469,7 @@ Revo_Core1.sp_a3_vactube_hanging_13 "<clr:105,154,192>Winda jest tutaj."
 Revo_Core1.sp_a3_vactube_hanging_14 "<clr:105,154,192>Całkiem przytulna. Jestem pewna, że możemy się tam zmieścic"
 Revo_Core1.sp_a3_vactube_hanging_15 "<clr:105,154,192>Nigdy nie myślałem, że będę tęskniła za parkingiem... Już prawie stąd wychodzimy!"
 
-
+// chapter 07
 Revo_Core1.sp_a4_intro_00 "<clr:105,154,192>Uhm.. To nie jest powierzchnia. Czy winda jest zablokowana?"
 Revo_Core1.sp_a4_intro_01 "<clr:105,154,192>Woah co sie tu stało?"
 Revo_Core0.sp_a4_intro_00 "<clr:255,200,109>Och znalazłem cie!"
@@ -535,6 +541,7 @@ Revo_Core1.sp_a4_schrodinger_final_10 "<clr:105,154,192>Spotkajmy się po tej wi
 Revo_Core1.sp_a4_schrodinger_final_11 "<clr:105,154,192>Przygotuję dla ciebie drogę ucieczki, która zaprowadzi nas prosto do iglicy."
 Revo_Core1.sp_a4_schrodinger_final_12 "<clr:105,154,192>Spotkamy się na miejscu!"
 
+// chapter 08
 Revo_Core1.sp_a4_transition_can_you_hear_me                 "<clr:105,154,192>[Szeptanie] <I>Czy mnie słyszysz?<I>"
 Revo_Core1.sp_a4_transition_helloooo                        "<clr:105,154,192>[Szeptanie] <I>Halo?<I>"
 Revo_Core1.sp_a4_transition_hey                             "<clr:105,154,192>[Szeptanie] <I>Hej!<I>"
