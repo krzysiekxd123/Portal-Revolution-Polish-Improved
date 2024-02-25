@@ -404,7 +404,7 @@ Revo_Core1.sp_a3_lake_74 "<clr:105,154,192>Może wstrzymaj twój oddech."
 Revo_Core1.sp_a3_lake_walla_00 "<clr:105,154,192>Zero rąk, tylko uchwyty."
 Revo_Core1.sp_a3_lake_walla_01 "<clr:105,154,192>Hm-hm, hm hm hm-hm hm.... Hm, hm-hm... Hm, hm-hm... Hm-hm, hm hm hm-hm hm...."
 
-Revo_Core1.sp_a3_vactube_cuberemove_00 "<clr:105,154,192>To jest jak daleko moge ciebie Prenieść."
+Revo_Core1.sp_a3_vactube_cuberemove_00 "<clr:105,154,192>To jest jak daleko moge ciebie prenieść."
 Revo_Core1.sp_a3_vactube_cuberemove_01 "<clr:105,154,192>Kurde to ledwie połowa!"
 Revo_Core1.sp_a3_vactube_cuberemove_02 "<clr:105,154,192>Więc... wygląda na to że musimy przejść długą drogę. Przepraszam..."
 Revo_Core1.sp_a3_vactube_cuberemove_03 "<clr:105,154,192>Zamierzam zbadać tę iglicę, podczas gdy ty będziesz rozwiązywał komory Testowe"
@@ -412,15 +412,15 @@ Revo_Core1.sp_a3_vactube_cuberemove_10 "<clr:105,154,192>Znalazłem pewne wewnę
 Revo_Core1.sp_a3_vactube_cuberemove_11 "<clr:105,154,192>Jak udało im się zmieścić to wszystko na jednym dysku?"
 
 Revo_Core1.sp_a3_vactube_pipes_00 "<clr:105,154,192>Czytałam o iglicy."
-Revo_Core1.sp_a3_vactube_pipes_01 "<clr:105,154,192>Zastanawia mnie jedna rzecz. Kto to aktywował?"
-Revo_Core1.sp_a3_vactube_pipes_02 "<clr:105,154,192>Przez dziesięciolecia był uśpiony i nagle wkroczył do akcji?"
-Revo_Core1.sp_a3_vactube_pipes_03 "<clr:105,154,192>Ktokolwiek to był musiał to bardzo zezłościć."
-Revo_Core1.sp_a3_vactube_pipes_10 "<clr:105,154,192>Znowu to było. Widziałeś?"
-Revo_Core1.sp_a3_vactube_pipes_11 "<clr:105,154,192>Iglica kradnie stąd zasoby w części sekwencji włączania.."
+Revo_Core1.sp_a3_vactube_pipes_01 "<clr:105,154,192>Zastanawia mnie jedna rzecz. Jak została aktywowana?"
+Revo_Core1.sp_a3_vactube_pipes_02 "<clr:105,154,192>Przez dziesięciolecia była uśpiona i nagle poprostu wkroczyła do akcji?"
+Revo_Core1.sp_a3_vactube_pipes_03 "<clr:105,154,192>Ktokolwiek to był musiał ją bardzo zezłościć."
+Revo_Core1.sp_a3_vactube_pipes_10 "<clr:105,154,192>Znowu to się stało. Widziałeś?"
+Revo_Core1.sp_a3_vactube_pipes_11 "<clr:105,154,192>Iglica zabiera stąd zasoby w trakcie sekwencji włączania.."
 Revo_Core1.sp_a3_vactube_pipes_12 "<clr:105,154,192>Nie sądzę, że stanowi to dla nas bezpośrednie zagrożenie, ale..."
 Revo_Core1.sp_a3_vactube_pipes_13 "<clr:105,154,192>Coś po prostu nie gra."
-Revo_Core1.sp_a3_vactube_pipes_14 "<clr:105,154,192>Aperture lubi grzebać we wszystkim, bez względu na to, jak niebezpieczne jest to."
-Revo_Core1.sp_a3_vactube_pipes_15 "<clr:105,154,192>Fakt, że przerwali ten eksperyment, tak naprawdę nie napawa mnie emocjami, które określiłbym jako “pozytywne”.."
+Revo_Core1.sp_a3_vactube_pipes_14 "<clr:105,154,192>Aperture lubi grzebać we wszystkim, bez względu na to, jak niebezpieczne to jest."
+Revo_Core1.sp_a3_vactube_pipes_15 "<clr:105,154,192>Fakt, że przerwali ten eksperyment, tak naprawdę nie napawa mnie emocjami, które określiłabym jako “pozytywne”.."
 
 Revo_Core1.sp_a3_vactube_gelbending_00 "<clr:105,154,192>Czy wiesz, że Aperture symuluje oddychanie i mruganie w swoich czujących robotach?"
 Revo_Core1.sp_a3_vactube_gelbending_01 "<clr:105,154,192>Nadal mam coś w rodzaju podświadomego odruchu oddychania i mrugania oczami, chociaż nie jest to technicznie konieczne."
@@ -478,10 +478,10 @@ Revo_Core0.sp_a4_intro_01 "<clr:255,200,109>Bardzo się martwiłem, gdzie mógł
 Revo_Core0.sp_a4_intro_02 "<clr:255,200,109>Przynajmniej nie udusiłeś się w ścianie, więc to dobrze."
 Revo_Core0.sp_a4_intro_03 "<clr:255,200,109>Słuchaj. Dlaczego nie wrócisz i nie dołączysz do mnie tutaj, w iglicy? Ładuję teleporter, gdy rozmawiamy, aby kontynuować naszą misję, którą tak niegrzecznie przerwałeś."
 Revo_Core1.sp_a4_intro_04 "<clr:105,154,192>Czekaj jaka misja?"
-Revo_Core0.sp_a4_intro_06 "<clr:255,200,109>Och, kto jest twoim małym pomocnikiem? Słodkie."
+Revo_Core0.sp_a4_intro_06 "<clr:255,200,109>Och, kim jest twój mały pomocnik? Słodkie."
 Revo_Core0.sp_a4_intro_07 "<clr:255,200,109>Jeśli chcesz, możesz do nas dołączyć!"
-Revo_Core1.sp_a4_intro_05 "<clr:105,154,192>Dołączę do ciebie z czym?"
-Revo_Core0.sp_a4_intro_08 "<clr:255,200,109>Och, chcemy po prostu naprawić obiekt."
+Revo_Core1.sp_a4_intro_05 "<clr:105,154,192>Dołączę do ciebie. Do czego?"
+Revo_Core0.sp_a4_intro_08 "<clr:255,200,109>Och, chcemy po prostu odbudować placówkę."
 Revo_Core0.sp_a4_intro_08_2 "<clr:255,200,109>Och, chcemy po prostu naprawić obiekt."
 Revo_Core0.sp_a4_intro_08_3 "<clr:255,200,109>Och, chcemy po prostu naprawić obiekt."
 Revo_Core0.sp_a4_intro_09 "<clr:255,200,109>Zbiorę pozostałości naszego centralnego rdzenia, złożę go ponownie i przywrócę do życia."
@@ -758,12 +758,6 @@ Revo_Core1.sp_a4_finale_ch4_a10 "<clr:105,154,192>Uhh..."
 Revo_Core1.sp_a4_finale_ch4_a11 "<clr:105,154,192>O MÓJ-"
 Revo_Core0.sp_a4_finale_ch4_a12 "<clr:255,200,109>NIEE"
 
-
-
-
-
-
-
 Revo_Core0.followed_by_death "<clr:255,200,109>Następuje śmierć."
 Revo_Core0.good_luck "<clr:255,200,109>Powodzenia!"
 
@@ -784,4 +778,3 @@ Revo_Core0.what_do_we_have_here "<clr:255,200,109>Okej, co tutaj mamy..."
 
 }
 }
-
