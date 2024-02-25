@@ -5,10 +5,10 @@ Tokens
 {
 
 Revo_Core0.sp_a1_begin_01 "<clr:255,200,109>Dzień, dobry objekcie testowy, byłeś niedysponowany przez ostatnie 72 dni."
-Revo_Core0.sp_a1_begin_02 "<clr:255,200,109>Komputer Centrum Wzbogacania Aparture Science gratuje ci 36 rocznicy snu."
+Revo_Core0.sp_a1_begin_02 "<clr:255,200,109>Centrum Wzbogacania Aperture Science gratuluje ci 36 rocznicy snu."
 Revo_Core0.sp_a1_begin_03 "<clr:255,200,109>Zostałeś wybrany jako potencjalny kandydat na członka Ludziego Zespołu Reagowania w Sytuacjach Awaryjnych."
 Revo_Core0.sp_a1_begin_04 "<clr:255,200,109>Proszę zapoznać się z umową wyświetloną na ekranie."
-Revo_Core0.sp_a1_begin_05 "<clr:255,200,109>Aby zostać zaakceptowanym do Ludziego Zespołu Reagowania w Sytuacjach Awaryjnych, musisz przejść przez zaawansowany testowy tor, gdzie twoje umiejętności rozwiązywania problemów, wytrzymałość oraz reakcje na trudne warunki zostaną ocenione."
+Revo_Core0.sp_a1_begin_05 "<clr:255,200,109>Aby zostać zaakceptowanym do Ludziego Zespołu Reagowania w Sytuacjach Awaryjnych, musisz przejść przez zaawansowany tor testowy, gdzie twoje umiejętności rozwiązywania problemów, wytrzymałość oraz reakcje na trudne warunki zostaną ocenione."
 Revo_Core0.sp_a1_begin_06 "<clr:255,200,109>Proszę nacisnąć przycisk aby zaakceptować warunki."
 Revo_Core0.sp_a1_begin_07 "<clr:255,200,109>Dziękujemy za zgłoszenie się na ochotnika!"
 Revo_Core0.sp_a1_begin_08 "<clr:255,200,109>Drzwi zostaną otwarte za Trzy... Dwa... Jeden..."
