@@ -210,7 +210,6 @@ Revo_Core0.sp_a2_playground_10 "<clr:255,200,109>Wiesz, wieżyczki też mają uc
 Revo_Core0.sp_a2_playground_11 "<clr:255,200,109>Co? Eee... Nie zniszczyłeś ani jednej wieżyczki?"
 Revo_Core0.sp_a2_playground_12 "<clr:255,200,109>Czemu? Oczekujesz to jakiejś nagrody za to? Oni przecież mogli cię tam zabić!"
 
-
 Revo_Core0.sp_a2_tbeam_flings_00 "<clr:255,200,109>Zostały nam jeszcze tylko dwie komory i będziemy u celu."
 Revo_Core0.sp_a2_tbeam_flings_01 "<clr:255,200,109>Wydaje mi się że ci już mówiłem że potrzebny jest człowiek, aby to aktywować?"
 Revo_Core0.sp_a2_tbeam_flings_02 "<clr:255,200,109>Z tego co słyszałem, jest to bardzo skomplikowany test, który tylko wysoce inteligentny ludzki umysł jest w stanie rozwiązać."
