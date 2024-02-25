@@ -233,7 +233,7 @@ Revo_Core0.sp_a2_end_00 "<clr:255,200,109>Zrobiliśmy to, naprawdę to zrobiliś
 Revo_Core0.sp_a2_end_00_2 "<clr:255,200,109>Udało nam się, naprawdę nam się udało."
 Revo_Core0.sp_a2_end_01 "<clr:255,200,109>Cóż jeszcze nie całkiem, ale w końcu to zrobimy."
 Revo_Core0.sp_a2_end_02 "<clr:255,200,109>Na co czekasz? Chodźmy!"
-Revo_Core0.sp_a2_end_10 "<clr:255,200,109>Eh, oczywiście... tak blisko już do końca, i kojny test!"
+Revo_Core0.sp_a2_end_10 "<clr:255,200,109>Eh, oczywiście... tak blisko już do końca, i kolejny test!"
 Revo_Core0.sp_a2_end_11 "<clr:255,200,109>Cóż, nie widzę sposobu, aby ci w tym pomóc. Będziesz musiała zrobić to po staremu."
 Revo_Core0.sp_a2_end_12 "<clr:255,200,109>O zobacz, tu jest głowny przełącznik zasilania!"
 Revo_Core0.sp_a2_end_12_2 "<clr:255,200,109>O zobacz, tu jest głowny przełącznik zasilania!"
