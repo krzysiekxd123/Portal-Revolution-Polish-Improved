@@ -26,7 +26,7 @@ Revo_Core0.sp_a1_fizzler_intro_00_1 "<clr:255,200,109>W rzandkim przypadku, jeś
 Revo_Core0.sp_a1_fizzler_intro_01 "<clr:255,200,109>I stop...! Gratulacje obiekcie testowy #1! Właśnie ustanowiłeś nowy rekord w przechodzeniu tego testu. Teraz oficjalnie zajmujesz pierwsze i ostatnie miejsce w tabeli wyników."
 
 Revo_Core0.sp_a1_laser_intro_00 "<clr:255,200,109>Dobra, co my tu mamy..."
-Revo_Core0.sp_a1_laser_intro_01 "<clr:255,200,109>Następny test może zawierać skoncentrowane ilości promieniowania elektromagnetycznego, które mogą wywoływać ból w siatkówkach u niektórych ludzi."
+Revo_Core0.sp_a1_laser_intro_01 "<clr:255,200,109>Następny test może zawierać skoncentrowane ilości promieniowania elektromagnetycznego, które mogą wywoływać ból siatkówkek u niektórych ludzi."
 Revo_Core0.sp_a1_laser_intro_02 "<clr:255,200,109>Centrum Wzbogacenia sugeruje przejście nastepujacego testu z zamkniętymi oczami, jako że ubezpieczenie zdrowotne nie będzie dostępne w trakcie tego konketnego testu."
 Revo_Core0.sp_a1_laser_intro_03 "<clr:255,200,109>W przypadku, gdy część fotoreceptorów twoich oczu poprzednio została zdeintegrowana przez Siatkę Dematerializującą, możesz zignorować wcześniejsze ostrzeżenie."
 Revo_Core0.sp_a1_laser_intro_11 "<clr:255,200,109>Ukończyłeś test. Jeżeli jeszcze tego nie zrobiłeś, możesz otworzyć oczy."
@@ -37,12 +37,12 @@ Revo_Core0.sp_a1_cube_fling_intro_11 "<clr:255,200,109>W imieniu Centrum Wzbogac
 Revo_Core0.sp_a1_cube_fling_intro_12_2 "<clr:255,200,109>Nieźle..."
 Revo_Core0.sp_a1_cube_fling_intro_12_3 "<clr:255,200,109>Nieźle..."
 
-Revo_Core0.sp_a1_catapult_intro_00 "<clr:255,200,109>Na skutek niedawnych wydarzeń, niektóre katapulty powietrzne mogą być błędnie skonfigurowane, wysyłając w ten sposób obiekty w złą stronę. Bądź ostrożny!"
+Revo_Core0.sp_a1_catapult_intro_00 "<clr:255,200,109>Na skutek niedawnych wydarzeń, niektóre katapulty powietrzne mogą być błędnie skonfigurowane, wysyłając w ten sposób obiekty w dowolnym kierunku. Bądź ostrożny!"
 Revo_Core0.sp_a1_catapult_intro_01 "<clr:255,200,109>Cóż, ta katapilta napewno nie działa dobrze... Daj mi chwile."
 Revo_Core0.sp_a1_catapult_intro_02 "<clr:255,200,109>Proszę. Spróbuj teraz!"
 Revo_Core0.sp_a1_catapult_intro_03 "<clr:255,200,109>Dobrze. Teraz powietrzna katapulta powinna być prawidłowo ustawiona."
 Revo_Core0.sp_a1_catapult_intro_05 "<clr:255,200,109>Więc to po to w suficie są te dziury..."
-Revo_Core0.sp_a1_catapult_intro_06 "<clr:255,200,109>Dobra robota. Od teraz wszystkie katapulty powinny być prawidłowo ustawione, obiecuje."
+Revo_Core0.sp_a1_catapult_intro_06 "<clr:255,200,109>Dobra robota. Od teraz wszystkie katapulty powinny być prawidłowo skonfigurowane, obiecuje."
 
 Revo_Core0.sp_a1_final_test_00 "<clr:255,200,109>Dobra robota kandydacie. Coraz bardziej zbliżasz się do ostatniej komory testowej."
 Revo_Core0.sp_a1_final_test_01 "<clr:255,200,109>Ukończenie ostatniej komory testowej oraz całego testu zapewni ci członkostwo w Ludzkim Zespole Reagowania w Sytuacjach Awaryjnych..."
@@ -94,7 +94,7 @@ Revo_Core0.sp_a1_bts_wind_12_0 "<clr:255,200,109>Właśnie przeglądam twoje akt
 Revo_Core0.sp_a1_bts_wind_12_1 "<clr:255,200,109>Oh, nie nie nie..."
 Revo_Core0.sp_a1_bts_wind_12_2 "<clr:255,200,109>Wiesz co? Zapomnij że cię oto pytałem..."
 Revo_Core0.sp_a1_bts_wind_12_3 "<clr:255,200,109>Bardzo mi przykro."
-Revo_Core0.sp_a1_bts_wind_30 "<clr:255,200,109>Ehh, turbiny wiatrowe. Oczywście. Postaraj się nie zostać zdmuchniętym za bardzo, te turbiny robią się bardzo ^^ignore^^ gdy je włączysz."
+Revo_Core0.sp_a1_bts_wind_30 "<clr:255,200,109>Ehh, turbiny wiatrowe. Oczywście. Postaraj się nie zostać zdmuchniętym za bardzo, te turbiny robią się ponaddzwiękowe gdy je włączysz."
 Revo_Core0.sp_a1_bts_wind_40 "<clr:255,200,109>Spróbuj jakoś przejść przez tamten most. Jestem pewien że na coś wpadniesz, więc jagby co będę na ciebie czekać."
 
 Revo_Core0.sp_a1_bts_wind_2_00 "<clr:255,200,109>Jak się czujesz będąc oficjalnie pracownikiem Aparture Science? Tak... pewnie musi być świetnie..."
@@ -171,7 +171,7 @@ Revo_Core0.sp_a2_paint_fizzler_00 "<clr:255,200,109>Te testy nie były przeznacz
 Revo_Core0.sp_a2_paint_fizzler_01 "<clr:255,200,109>Co prawda, nie spotkaliśmy jescze żadnych toksycznych roślin, ale bądź czujny."
 Revo_Core0.sp_a2_paint_fizzler_02 "<clr:255,200,109>Jest powód dla którego nie robimy już experymentów na zewnątrz."
 Revo_Core0.sp_a2_paint_fizzler_10 "<clr:255,200,109>Gratulujemy ukończenia tego testu. Mamy nadzieję że ci się podobało w Aparture Science Centrum dla... Kto piszę te protokoły? Czy wszystkie są poprostu losowe generowane?"
-Revo_Core0.sp_a2_paint_fizzler_12 "<clr:255,200,109>Oczywiście że ci się podobało. Specjalnie tak zaprojektowaliśmy te testy."
+Revo_Core0.sp_a2_paint_fizzler_12 "<clr:255,200,109>Oczywiście że ci się podobało. Specjalnie tak zaprojektowaliśmy ten test."
 Revo_Core0.sp_a2_paint_fizzler_13 "<clr:255,200,109>Ehh, jest powód dla którego nie używam już tych skryptów."
 Revo_Core0.sp_a2_paint_fizzler_14 "<clr:255,200,109>Ledwo mogłem się przez nie przebić, kiedy cię pierwszy raz testowałem."
 Revo_Core0.sp_a2_paint_fizzler_15 "<clr:255,200,109>Heh, pamiętasz to? Tak w ogóle to co myślisz o moim głosie lektora? Ćwiczyłem nad nim."
@@ -212,7 +212,7 @@ Revo_Core0.sp_a2_playground_12 "<clr:255,200,109>Czemu? Oczekujesz to jakiejś n
 
 
 Revo_Core0.sp_a2_tbeam_flings_00 "<clr:255,200,109>Zostały nam jeszcze tylko dwie komory i będziemy u celu."
-Revo_Core0.sp_a2_tbeam_flings_01 "<clr:255,200,109>Wydaje mi się że ci już mówiłem że potrzebuje jakiegoś człowieka do aktywowania tego?"
+Revo_Core0.sp_a2_tbeam_flings_01 "<clr:255,200,109>Wydaje mi się że ci już mówiłem że potrzebny jest człowiek, aby to aktywować?"
 Revo_Core0.sp_a2_tbeam_flings_02 "<clr:255,200,109>Z tego co słyszałem, jest to bardzo skomplikowany test, który tylko wysoce inteligentny ludzki umysł jest w stanie rozwiązać."
 Revo_Core0.sp_a2_tbeam_flings_03 "<clr:255,200,109>Nie wiem na czym będzie polegać ten test, ale postaraj się zachować trochę szarych komórek na później!"
 Revo_Core0.sp_a2_tbeam_flings_10 "<clr:255,200,109>O, to było satysfakcjonujące!"
