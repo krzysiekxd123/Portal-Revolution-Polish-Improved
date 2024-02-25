@@ -114,7 +114,7 @@ Revo_Core0.sp_a1_bts_wind_2_15 "<clr:255,200,109>Rób co musisz. Niszcz tylko to
 Revo_Core0.sp_a1_bts_wind_2_16 "<clr:255,200,109>A no i jeszcze spróbuj nie umrzeć w trakcie. Jestem już zmęczony sprzątaniem plam krwi. Trudno jest się pozbyć póżniej tego koloru..."
 Revo_Core0.sp_a1_bts_wind_2_16_2 "<clr:255,200,109>DO_NOT_REMOVE_THIS_LINE"
 Revo_Core0.sp_a1_bts_wind_2_20 "<clr:255,200,109>Kolejna rzecz do dodania do nigdy nie kończącej się listy „do zrobienia”..."
-Revo_Core0.sp_a1_bts_wind_2_21 "<clr:255,200,109>Brawo. Zniszczyłeś  Czy jest coś co chcesz mi przez to powiedzieć?"
+Revo_Core0.sp_a1_bts_wind_2_21 "<clr:255,200,109>Brawo. Zniszczyłeś tablicę informacyjną.  Czy jest coś co chcesz mi przez to powiedzieć?"
 Revo_Core0.sp_a1_bts_wind_2_22 "<clr:255,200,109>No w końcu. Wreszcie znalazłeś wyjście. Te bomby były straszne.."
 
 Revo_Core0.sp_a1_bts_chambers_00 "<clr:255,200,109>Przygotowałem dla ciebie niespodzianke. Ja wiem, ja wiem. Obiecałem że nie będziemy więcej testować..."
