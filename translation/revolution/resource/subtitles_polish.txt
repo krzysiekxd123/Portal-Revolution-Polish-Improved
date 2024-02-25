@@ -575,7 +575,7 @@ Revo_Core0.sp_a4_transition_12 "<clr:255,200,109>A odpowiedź będzie prosta. U�
 Revo_Core0.sp_a4_transition_13 "<clr:255,200,109>Teraz zdaję sobie sprawę, że nie do końca odpowiedziałem na pytanie, ale to dlatego, że pozwolę ci podjąć decyzję."
 Revo_Core0.sp_a4_transition_13_2 "<clr:255,200,109>Teraz zdaję sobie sprawę, że nie do końca odpowiedziałem na pytanie, ale to dlatego, że pozwolę ci podjąć decyzję."
 Revo_Core0.sp_a4_transition_14 "<clr:255,200,109>Mam tu kilka opcji, to miło z mojej strony, prawda? Pozwolić ci wybierać?"
-Revo_Core0.sp_a4_transition_15 "<clr:255,200,109>To sprawia, że ​​śmierć jest dobrowolna, prawda? Jak samobójstwo."
+Revo_Core0.sp_a4_transition_15 "<clr:255,200,109>To sprawia, że śmierć jest dobrowolna, prawda? Jak samobójstwo."
 Revo_Core0.sp_a4_transition_16 "<clr:255,200,109>OK, więc oto opcje:"
 Revo_Core0.sp_a4_transition_20 "<clr:255,200,109>Opcja 1: Uduszenie przez skałę."
 Revo_Core0.sp_a4_transition_21 "<clr:255,200,109>Zostaniesz teleportowany w skały. Całkowicie otoczony, bez możliwości poruszania się i ucieczki."
