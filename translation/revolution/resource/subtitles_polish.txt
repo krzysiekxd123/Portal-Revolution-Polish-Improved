@@ -122,7 +122,7 @@ Revo_Core0.sp_a1_bts_wind_2_22 "<clr:255,200,109>No w końcu. Wreszcie znalazłe
 Revo_Core0.sp_a1_bts_chambers_00 "<clr:255,200,109>Przygotowałem dla ciebie niespodzianke. Ja wiem, ja wiem. Obiecałem że nie będziemy więcej testować..."
 Revo_Core0.sp_a1_bts_chambers_01 "<clr:255,200,109>Zaraz, zaraz. Wcale tego nie powiedziałem! A więc, zaczynamy."
 Revo_Core0.sp_a1_bts_chambers_02 "<clr:255,200,109>Poczekam na ciebie z przodu i eee... przygotuje kilka rzeczy. Nie spiesz się z tym testem."
-Revo_Core0.sp_a1_bts_chambers_10 "<clr:255,200,109>Niespodzianka!... Co? Czemu masz taką minę? Spodziewałeś się czegoś złego?"
+Revo_Core0.sp_a1_bts_chambers_10 "<clr:255,200,109>Niespodzianka!... Co? Czemu masz taką minę? Spodziewałaś się czegoś złego?"
 Revo_Core0.sp_a1_bts_chambers_11 "<clr:255,200,109>Tak, to jest winda prowadząca do samej góry. Trudno o taką. Nie dziękuj tak w ogóle."
 Revo_Core0.sp_a1_bts_chambers_12 "<clr:255,200,109>Wiem że z jakiegoś powodu ludzie lubią niebo, więc pomyślałem że może cię ucieszyć jego widok."
 Revo_Core0.sp_a1_bts_chambers_20 "<clr:255,200,109>Dobra, wiem co sobie myślisz. Tak naprawdę to mi wcale nie ufasz, i brzmię dla ciebie jak jakiś wariat czy psychopata. Pewnie oby dwa naraz, będąc szczerym."
