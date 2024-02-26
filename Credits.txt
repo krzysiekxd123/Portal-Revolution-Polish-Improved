@@ -1,11 +1,12 @@
 ===================================================================
-Tłumaczenie zrobili: Odlotowy_ser, Kyoshuske i DeBondor
+     Tłumaczenie zrobili: Odlotowy_ser, kyoshuske i DeBondor
 ===================================================================
 
 ===================================================================
 Więcej szczegółów:
-Revolution_polish: Odlotowy_ser
-Scena po napisach końcowych: DeBondor
-Napisy od początku do sp_a3_vactube_lumber_27 : Kyoshuske
-Reszta napisów: Odlotowy_ser
+ Menu/interfejs      : Odlotowy_ser
+ Poprawki            : DeBondor
+ Napisy 1-4 rozdział : kyoshuske
+ Napisy 5-8 rozdział : Odlotowy_ser
+ Napisy epilog       : DeBondor
 ===================================================================
