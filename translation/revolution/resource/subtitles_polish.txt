@@ -317,7 +317,7 @@ Revo_Core1.sp_a3_labs_08 "<clr:105,154,192>Okej, zróbmy to porządnie. Przepras
 Revo_Core1.sp_a3_labs_09 "<clr:105,154,192>Wytłumaczę ci co właśnie się stało, tylko spróbujmy stąd wyjść na początku."
 Revo_Core1.sp_a3_labs_10 "<clr:105,154,192>Możesz mnie podnieść?"
 Revo_Core1.sp_a3_labs_20 "<clr:105,154,192>Dzięki."
-Revo_Core1.sp_a3_labs_21 "<clr:105,154,192>Tak wogóle, to gdzie są wszyscy? Biuro jest już zamknięte? I co obiekt testowy tu wogóle robi?"
+Revo_Core1.sp_a3_labs_21 "<clr:105,154,192>Tak w ogóle, to gdzie są wszyscy? Biuro jest już zamknięte? I co obiekt testowy tu w ogóle robi?"
 Revo_Core1.sp_a3_labs_22 "<clr:105,154,192>Niedaleko z tąd jest centrum. Chodźmy tam."
 Revo_Core1.sp_a3_labs_30 "<clr:105,154,192>Strasznie tu ciemno. Widzisz gdzieś przełącznik światła?"
 Revo_Core1.sp_a3_labs_31 "<clr:105,154,192>W sęsie nie musimy tędy wcale iść? Rozumiem że wolała być znaleść inną drogę, jeśli boisz się ciemności. Nic w tym złego."
@@ -620,7 +620,7 @@ Revo_Core0.sp_a4_transition_83 "<clr:255,200,109>Wracaj tu i giń w moim dole!"
 // Finale
 Revo_Core1.sp_a4_finale_pre00 "<clr:105,154,192>Hej, tutaj!"
 Revo_Core1.sp_a4_finale_pre01 "<clr:105,154,192>Chodź i złap mnie. W komorze nie ma szyn."
-Revo_Core1.sp_a4_finale_pre02 "<clr:105,154,192>Jesteś na to gotowy?"
+Revo_Core1.sp_a4_finale_pre02 "<clr:105,154,192>Jesteś na to gotowa?"
 
 Revo_Core0.sp_a4_finale_room1_a00 "<clr:255,200,109>Witamy panie, witamy."
 Revo_Core0.sp_a4_finale_room1_a01 "<clr:255,200,109>Do twojej śmierci."
