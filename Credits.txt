@@ -4,7 +4,7 @@
  
 ===================================================================
             Menu/interfejs      : Odlotowy_ser
-            Poprawki            : DeBondor, enderek, kyoshuske
+            Poprawki (korekta)  : DeBondor, enderek, kyoshuske
             Napisy 1-4 rozdział : kyoshuske
             Napisy 5-8 rozdział : Odlotowy_ser
             Napisy epilog       : DeBondor
