@@ -376,7 +376,7 @@ Revo_Core1.sp_a3_lake_20 "<clr:105,154,192>Nie było mnie tu długo! Wow, to nie
 Revo_Core1.sp_a3_lake_21 "<clr:105,154,192>Ach tak, nudny pokój prezentacyjny."
 Revo_Core1.sp_a3_lake_22 "<clr:105,154,192>Z jakiegoś powodu, salom prezentacyjnym przydzielono specjalne role."
 Revo_Core1.sp_a3_lake_23 "<clr:105,154,192>To jest ten nudny, w którym prezentowane są tylko nieciekawe tematy."
-Revo_Core1.sp_a3_lake_24 "<clr:105,154,192>Ja pracowałam obok „sali prezentacji zagrożeń”. Cóż, tak przyjamniej ją nazwamy. To, co tam prezentują, było z początku straszne, ale szybko przestałam się tym przejmować."
+Revo_Core1.sp_a3_lake_24 "<clr:105,154,192>Ja pracowałam obok „sali prezentacji zagrożeń”. Cóż, tak przyjamniej ją nazywamy. To, co tam prezentują, było z początku straszne, ale szybko przestałam się tym przejmować."
 Revo_Core1.sp_a3_lake_30 "<clr:105,154,192>Manekiny?"
 Revo_Core1.sp_a3_lake_31 "<clr:105,154,192>Hmm interesujące. Myślisz że mogę znaleźć tu jakieś ludzkie ciało androida? Zapomniałam jak sie czuje mając ręce."
 Revo_Core1.sp_a3_lake_40 "<clr:105,154,192>Światło! W końcu!"
