@@ -76,7 +76,7 @@ Revo_Core0.sp_a1_final_test_70 "<clr:255,200,109>Świetny pomysł. Myślę że t
 Revo_Core0.sp_a1_final_test_71 "<clr:255,200,109>Dobrze, teraz mogę zarejestrować się jako naszego nowego dozorce. Witaj w Aperture! Możesz mówić na mnie Stirling. Jestem zażądcą tego obiektu i od teraz twoim nowym przełożonym."
 Revo_Core0.sp_a1_final_test_72 "<clr:255,200,109>Nie możemy tracić czasu. Chodź tędy!"
 Revo_Core0.sp_a1_final_test_73 "<clr:255,200,109>A czekaj. Hmm... No tak, nie przejdzież tędy. Spróbuj znaleźć inną drogę."
-Revo_Core0.sp_a1_final_test_73a "<clr:255,200,109>Dobra robota! Nie każdy dostaje taką prace. Powinnaś być z siebie dumna!"
+Revo_Core0.sp_a1_final_test_73a "<clr:255,200,109>Dobra robota! Nie każdy dostaje taką pracę. Powinnaś być z siebie dumna!"
 Revo_Core0.sp_a1_final_test_74 "<clr:255,200,109>Sprzątanie po ludziach którzy już nie nawet istnieją... Hmm..."
 Revo_Core0.sp_a1_final_test_75 "<clr:255,200,109>A więc jedźmy w góre!"
 
