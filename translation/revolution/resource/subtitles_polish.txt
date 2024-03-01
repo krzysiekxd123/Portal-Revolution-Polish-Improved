@@ -172,7 +172,7 @@ Revo_Core0.sp_a2_paints_10 "<clr:255,200,109>Muszę przyznać, że widok tego ja
 
 Revo_Core0.sp_a2_paint_fizzler_00 "<clr:255,200,109>Te testy nie były przeznaczone do bycia odsłoniętymi na powierzchnię."
 Revo_Core0.sp_a2_paint_fizzler_01 "<clr:255,200,109>Co prawda, nie spotkaliśmy jescze żadnych toksycznych roślin, ale bądź czujna."
-Revo_Core0.sp_a2_paint_fizzler_02 "<clr:255,200,109>Jest powód dla którego nie robimy już experymentów na zewnątrz."
+Revo_Core0.sp_a2_paint_fizzler_02 "<clr:255,200,109>Jest powód dla którego nie robimy już eksperymentów na zewnątrz."
 Revo_Core0.sp_a2_paint_fizzler_10 "<clr:255,200,109>Gratulujemy ukończenia tego testu. Mamy nadzieję że ci się podobało w Aperture Science Centrum dla... Kto piszę te protokoły? Czy wszystkie są poprostu losowe generowane?"
 Revo_Core0.sp_a2_paint_fizzler_12 "<clr:255,200,109>Oczywiście że ci się podobało. Specjalnie tak zaprojektowaliśmy ten test."
 Revo_Core0.sp_a2_paint_fizzler_13 "<clr:255,200,109>Ehh, jest powód dla którego nie używam już tych skryptów."
