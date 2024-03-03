@@ -341,7 +341,7 @@ Revo_Core1.sp_a3_labs_56 "<clr:105,154,192>Zrobionie."
 Revo_Core1.sp_a3_labs_57 "<clr:105,154,192>Nie zapomnij mnie wziąść."
 Revo_Core1.sp_a3_labs_58 "<clr:105,154,192>Wcześniej tego wszystkiego tu nie było."
 Revo_Core1.sp_a3_labs_59 "<clr:105,154,192>Jak długo mnie nie było? Chyba kilka dekad!"
-Revo_Core1.sp_a3_labs_60 "<clr:105,154,192>Nie mam pojęcia gdzie teraz idziemy. Musimy znaleźć jakąś szynę zarządzania, w tedy będę mogła się połączyć z systemem."
+Revo_Core1.sp_a3_labs_60 "<clr:105,154,192>Nie mam pojęcia gdzie teraz idziemy. Musimy znaleźć jakąś szynę zarządzania, wtedy będę mogła się połączyć z systemem."
 Revo_Core1.sp_a3_labs_61 "<clr:105,154,192>Winda, pewnie. Co najgorszego może nas tam na górze spotkać niby?"
 Revo_Core1.sp_a3_labs_62 "<clr:105,154,192>Właściwie, to nie chcesz wiedzieć."
 
