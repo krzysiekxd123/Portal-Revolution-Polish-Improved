@@ -11,5 +11,5 @@ w Sekcji **Local** l kliknij **Download Zip**
 
 **2. DODANIE TŁUMACZENIA DO GRY**
 
-Jedynym sposobem na dodanie tłumaczenia do gry, to jest zmienienie **'polish'** na **'english'** w każdej nazwie pliku,
+Jedynym sposobem na dodanie tłumaczenia do gry, jest zmienienie **'polish'** na **'english'** w każdej nazwie pliku,
 i dodawanie ich do plików gry w ('...\steamapps\common\Portal Revolution\revolution\resource')
