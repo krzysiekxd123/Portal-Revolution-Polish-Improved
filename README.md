@@ -1,3 +1,5 @@
+📝NOTE FOR DEVS: conver subtitles (``subtitles_polish.dat``) yourself if you want to implement the newest version in to the game.
+
 **Portal Revolution** polskie tłumaczenie zrobione przez odlotowy_ser, kyoshuske, DeBondor i enderek
 
 **1. INSALOWANIE PLIKÓW**
