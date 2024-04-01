@@ -53,6 +53,7 @@
 "Revolution_Quit_Confirm" "Jesteś pewien ze chcesz wyjść z gry"
 "Revolution_UnsavedChangesWillBeLost" "Cały niezapisany postęp zostanie utracony."
 
+"Plush_SupportUs" "Wesprzyj nas!"
 
 "Revolution_Yes" "Tak"
 "Revolution_No" "Nie"
