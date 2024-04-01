@@ -125,17 +125,21 @@
 "Calender_Month_10" "Listopad"
 "Calender_Month_11" "Grudzień"
 
+
 "Lang_UI" "Taki sam jak interfejs"
 "Lang_English" "Angielski"
 "Lang_German" "Niemiecki"
 "Lang_French" "Francuski"
 "Lang_Russian" "Rosyjski"
-"Lang_Spanish" "Hiszpański"
+"Lang_Spanish" "Hiszpański (Hiszpania)"
+"Lang_Latam" "Hiszpański (latam)"
 "Lang_Turkish" "Turecki"
 "Lang_Ukrainian" "Ukraiński"
-"Lang_SimplifiedChinese" "Chiński Uproszczony "
+"Lang_SimplifiedChinese" "Chiński Uproszczony"
 "Lang_TraditionalChinese" "Chiński Tradycyjny"
 "Lang_Italian" "Włoski"
+"Lang_Japanese" "Japoński"
+"Lang_Brazilian" "brazylijski portugalski"
 "Lang_Polish"  "Polski"
 
 // First map of each chapter still has the previous chapter name in the title to avoid spoiling the reveal of a new chapter
