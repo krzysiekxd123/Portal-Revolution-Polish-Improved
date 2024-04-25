@@ -2,16 +2,11 @@
 
 **Portal Revolution** polskie tłumaczenie zrobione przez odlotowy_ser, kyoshuske, DeBondor i enderek
 
-**1. INSALOWANIE PLIKÓW**
-
-Aby je zainstalować kliknij w **code** 
-
-
-w Sekcji **Local** l kliknij **Download Zip** 
-
-
+**1. INSTALACJA PLIKÓW**
+ - Aby zainstalować pliki kliknij w przycisk **<> code** na górze
+ - Następnie w Sekcji **Local** kliknij **Download Zip**
 
 **2. DODANIE TŁUMACZENIA DO GRY**
-
-Jedynym sposobem na dodanie tłumaczenia do gry, jest zmienienie **'polish'** na **'english'** w każdej nazwie pliku,
-i dodawanie ich do plików gry w ('...\steamapps\common\Portal Revolution\revolution\resource')
+ - Otwórz pobrany plik w formacie **'.zip'** (wymagany jest darmowy program [WinRAR](https://www.win-rar.com/))
+ - Zmień **'polish'** na **'english'** w każdej nazwie pobranego pliku jeśli to możliwe
+ - I na koniec wypakuj folder **'revolution'** do plików gry '...\steamapps\common\Portal Revolution'. (pliki gry możesz znaleść wybierając Portal Revolution w swojej bibliotece steam a następnie 'Zarządzaj' > 'Zarządzaj' > 'Przeglądaj pliki lokalne')
