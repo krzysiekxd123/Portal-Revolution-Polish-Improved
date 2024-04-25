@@ -3,8 +3,8 @@
 **Portal Revolution** polskie tłumaczenie zrobione przez odlotowy_ser, kyoshuske, DeBondor i enderek
 
 **1. INSTALACJA PLIKÓW**
- - Aby zainstalować pliki kliknij w przycisk **<> code** na górze
- - Następnie w Sekcji **Local** kliknij **Download Zip**
+ - Aby zainstalować pliki kliknij w przycisk **'<> code'** na górze
+ - Następnie w Sekcji **'Local'** kliknij **'Download Zip'**
 
 **2. DODANIE TŁUMACZENIA DO GRY**
  - Otwórz pobrany plik w formacie **'.zip'** (wymagany jest darmowy program [WinRAR](https://www.win-rar.com/))
