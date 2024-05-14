@@ -8,5 +8,5 @@
 
 **2. DODANIE TŁUMACZENIA DO GRY**
  - Otwórz pobrany plik w formacie **'.zip'** (wymagany jest darmowy program [WinRAR](https://www.win-rar.com/))
- - Zmień **'polish'** na **'english'** w każdej nazwie pobranego pliku jeśli to możliwe
- - I na koniec wypakuj folder **'revolution'** do plików gry '...\steamapps\common\Portal Revolution'. (pliki gry możesz znaleść wybierając Portal Revolution w swojej bibliotece steam a następnie 'Zarządzaj' > 'Zarządzaj' > 'Przeglądaj pliki lokalne')
+ - Wypakuj folder **'revolution'** do plików gry '...\steamapps\common\Portal Revolution'. (pliki gry możesz znaleść wybierając Portal Revolution w swojej bibliotece steam a następnie 'Zarządzaj' > 'Zarządzaj' > 'Przeglądaj pliki lokalne')
+ - Wejdź w właściwości gry i wpisz w  opcje uruchamiania : ***-language polish*** (jeśli napisy nie będą działać to w ustawieniach ustaw *język napisów* na **Taki sam jak interfejs**)
