@@ -15,7 +15,7 @@ Revo_Core0.sp_a1_begin_07 "<clr:255,200,109>Dziękujemy za zgłoszenie się na o
 Revo_Core0.sp_a1_begin_08 "<clr:255,200,109>Drzwi zostaną otwarte za Trzy... Dwa... Jeden..."
 
 Revo_Core0.sp_a1_portalgun_intro_00 "<clr:255,200,109>Obiekty testowe po przebudzeniu mogą doświadczać psychicznych urazów spowodowanych długim spoczywaniem w stanie hibernacji."
-Revo_Core0.sp_a1_portalgun_intro_01 "<clr:255,200,109>Aby dowiedzieć się czy twój mózg działa poprawnie zostaniesz poddany ankiecie."
+Revo_Core0.sp_a1_portalgun_intro_01 "<clr:255,200,109>Aby dowiedzieć się czy twój mózg działa poprawnie zostaniesz poddana ankiecie."
 Revo_Core0.sp_a1_portalgun_intro_02 "<clr:255,200,109>Jeśli uważasz że twój mózg jest wystarczająco sprawny aby rozpocząć testowanie, nacisnij przycisk przed sobą."
 Revo_Core0.sp_a1_portalgun_intro_03 "<clr:255,200,109>Świetnie. Teraz udaj się przez portal aby kontynuować testowanie. Twój status którą sama oceniłaś jest bardziej niż wystarczający, aby testować."
 Revo_Core0.sp_a1_portalgun_intro_04 "<clr:255,200,109>Informujemy że zauważalne uszkodzenie zmysłu wzroku nie jest częścią testu, a efektem ubocznym Siatki Dematerializującej Aperture Science, która w rzadkich przypadkach może zdezintegrować część fotoreceptorów znajdujących się w twojej głowie."
