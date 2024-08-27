@@ -119,8 +119,8 @@ Revo_Core0.sp_a1_bts_wind_2_20 "<clr:255,200,109>Kolejna rzecz do dodania do nig
 Revo_Core0.sp_a1_bts_wind_2_21 "<clr:255,200,109>Brawo. Zniszczyłaś tablicę informacyjną.  Czy jest coś co chcesz mi przez to powiedzieć?"
 Revo_Core0.sp_a1_bts_wind_2_22 "<clr:255,200,109>No w końcu. Wreszcie znalazłeś wyjście. Te bomby były straszne.."
 
-Revo_Core0.sp_a1_bts_chambers_00 "<clr:255,200,109>Przygotowałem dla ciebie niespodzianke. Ja wiem, ja wiem. Obiecałem że nie będziemy więcej testować..."
-Revo_Core0.sp_a1_bts_chambers_01 "<clr:255,200,109>Zaraz, zaraz. Wcale tego nie powiedziałem! A więc, zaczynamy."
+Revo_Core0.sp_a1_bts_chambers_00 "<clr:255,200,109>Przygotowałem dla ciebie niespodzianke. Ja wiem, wiem. Obiecałem że nie będzie więcej testowania..."
+Revo_Core0.sp_a1_bts_chambers_01 "<clr:255,200,109>Zaraz, zaraz. Wcale tak nie powiedziałem! A więc, możemy zaczynać."
 Revo_Core0.sp_a1_bts_chambers_02 "<clr:255,200,109>Poczekam na ciebie z przodu i eee... przygotuje kilka rzeczy. Nie spiesz się z tym testem."
 Revo_Core0.sp_a1_bts_chambers_10 "<clr:255,200,109>Niespodzianka!... Co? Czemu masz taką minę? Spodziewałaś się czegoś złego?"
 Revo_Core0.sp_a1_bts_chambers_11 "<clr:255,200,109>Tak, to jest winda prowadząca do samej góry. Trudno o taką. Nie dziękuj tak w ogóle."
