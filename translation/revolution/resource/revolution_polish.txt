@@ -50,7 +50,7 @@
 "Revolution_ToMainMenu_Option2" "Wroć do pulpitu"
 "Revolution_ToMainMenu_Option3" "Anuluj"
 "Revolution_Quit" "Wyjdź"
-"Revolution_Quit_Confirm" "Jesteś pewien ze chcesz wyjść z gry"
+"Revolution_Quit_Confirm" "Jesteś napewno chcesz wyjść z gry?"
 "Revolution_UnsavedChangesWillBeLost" "Cały niezapisany postęp zostanie utracony."
 
 "Plush_SupportUs" "Wesprzyj nas!"
@@ -75,7 +75,7 @@
 
 "Revolution_Save_New" "Nowy zapis"
 
-"Revolution_PlayFromBeginning" "Zagraj of początku"
+"Revolution_PlayFromBeginning" "Zacznij od początku"
 "Revolution_SelectMap" "Wybierz Mapę"
 "Revolution_SelectChapter" "Wybierz Rozdział"
 
