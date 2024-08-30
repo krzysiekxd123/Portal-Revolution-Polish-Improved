@@ -81,7 +81,7 @@ Revo_Core0.sp_a1_final_test_74 "<clr:255,200,109>Sprzątanie po ludziach którzy
 Revo_Core0.sp_a1_final_test_75 "<clr:255,200,109>A więc jedźmy w góre!"
 
 // chapter 02
-Revo_Core0.sp_a1_bts_wind_00 "<clr:255,200,109>Prawdopodobnie już zauważyłaś że ta placówka nie jest dobrym stanie. To długa historia, więc będę się streszczać."
+Revo_Core0.sp_a1_bts_wind_00 "<clr:255,200,109>Pewnie już zauważyłaś że placówka nie jest w najlepszym stanie. To długa historia, więc będę się streszczać."
 Revo_Core0.sp_a1_bts_wind_01 "<clr:255,200,109>Głowny rdzeń odpowiadający za utrzymacie obiektu... został... wyłączony z użytku."
 Revo_Core0.sp_a1_bts_wind_02 "<clr:255,200,109>Próbowałem zajmować się tym miejscem, jednak nie miałem do tego odpowiednich narzędzi."
 Revo_Core0.sp_a1_bts_wind_03 "<clr:255,200,109>Jednak mam dobre wieści!"
