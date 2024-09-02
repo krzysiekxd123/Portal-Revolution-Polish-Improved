@@ -50,7 +50,7 @@
 "Revolution_ToMainMenu_Option2" "Wroć do pulpitu"
 "Revolution_ToMainMenu_Option3" "Anuluj"
 "Revolution_Quit" "Wyjdź"
-"Revolution_Quit_Confirm" "Jesteś napewno chcesz wyjść z gry?"
+"Revolution_Quit_Confirm" "Czy napewno chcesz opuścić grę?"
 "Revolution_UnsavedChangesWillBeLost" "Cały niezapisany postęp zostanie utracony."
 
 "Plush_SupportUs" "Wesprzyj nas!"
