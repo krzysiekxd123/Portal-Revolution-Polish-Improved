@@ -47,7 +47,7 @@
 "Revolution_ToMainMenu" "Wyjdź z gry"
 "Revolution_ToMainMenu_Confirm" "Czy jesteś pewien że chcesz wyjść z gry?"
 "Revolution_ToMainMenu_Option1" "Wróć do menu"
-"Revolution_ToMainMenu_Option2" "Wroć do pulpitu"
+"Revolution_ToMainMenu_Option2" "Wróć do pulpitu"
 "Revolution_ToMainMenu_Option3" "Anuluj"
 "Revolution_Quit" "Wyjdź"
 "Revolution_Quit_Confirm" "Czy napewno chcesz opuścić grę?"
