@@ -107,7 +107,7 @@ Revo_Core0.sp_a1_bts_wind_2_04 "<clr:255,200,109>Nie dokońca zespół ale... hm
 Revo_Core0.sp_a1_bts_wind_2_05 "<clr:255,200,109>Mógłbym znaleźć więcej osób, ale to by było za dużo pracy."
 Revo_Core0.sp_a1_bts_wind_2_06 "<clr:255,200,109>Wiesz co? Myślę że my we dwoje stanowimy świetny zespół."
 Revo_Core0.sp_a1_bts_wind_2_07 "<clr:255,200,109>Może i nasz zespół nie składa się z samych ludzi, ale nie zawsze dostajesz to czego chcesz. W połowie ludzki? Myślę że może być."
-Revo_Core0.sp_a1_bts_wind_2_08 "<clr:255,200,109>Wracając do tematu, mam dla ciebie propozycję. Ty pomożesz mi naprawić placówkę, a ja pozwolę ci ją opuścić."
+Revo_Core0.sp_a1_bts_wind_2_08 "<clr:255,200,109>Wracając do tematu, oto moja propozycja. Ty pomożesz mi naprawić placówkę, a ja pozwolę ci ją opuścić."
 Revo_Core0.sp_a1_bts_wind_2_10 "<clr:255,200,109>Dobra robota!"
 Revo_Core0.sp_a1_bts_wind_2_11 "<clr:255,200,109>Znajdujemy się teraz w placówce obserwacji testów. Kiedyś ludzie siedzieli tutaj całymi dniami i obserwowali obiekty testowe. Również w czasie rzeczywistym! Wyobraź to sobie tylko..."
 Revo_Core0.sp_a1_bts_wind_2_13 "<clr:255,200,109>Po drugiej stronie znajduje się kolejny taki pokój skąd możesz pojechać windą. Jesteś bardzo pomysłowa, napewno wymyślisz, jak się tam dostać!"
@@ -492,7 +492,7 @@ Revo_Core1.sp_a4_intro_11 "<clr:105,154,192>I właśnie dlatego trzeba wymienia�
 
 Revo_Core1.sp_a4_intro_20 "<clr:105,154,192>Więc z takimi gośćmi zwykle się zadajesz?"
 Revo_Core1.sp_a4_intro_21 "<clr:105,154,192>Pracujesz z nim?"
-Revo_Core1.sp_a4_intro_23 "<clr:105,154,192>Nie mogę patrzeć, powiedz mi, kiedy dojdziesz."
+Revo_Core1.sp_a4_intro_23 "<clr:105,154,192>Nie mogę patrzeć, powiedz mi, kiedy będziemy."
 Revo_Core1.sp_a4_intro_24 "<clr:105,154,192>OH! Nie powinnam była patrzeć!"
 Revo_Core1.sp_a4_intro_25 "<clr:105,154,192>Wreszcie solidny grunt!"
 Revo_Core1.sp_a4_intro_26 "<clr:105,154,192>Racja, więc to ty aktywowałeś iglicę. Ja... ja powinnam była to przewidzieć."
@@ -619,7 +619,7 @@ Revo_Core0.sp_a4_transition_83 "<clr:255,200,109>Wracaj tu i giń w moim dole!"
 
 // Finale
 Revo_Core1.sp_a4_finale_pre00 "<clr:105,154,192>Hej, tutaj!"
-Revo_Core1.sp_a4_finale_pre01 "<clr:105,154,192>Chodź i złap mnie. W komorze nie ma szyn."
+Revo_Core1.sp_a4_finale_pre01 "<clr:105,154,192>Chodź i mnie złap. W komorze nie ma szyn."
 Revo_Core1.sp_a4_finale_pre02 "<clr:105,154,192>Jesteś na to gotowa?"
 
 Revo_Core0.sp_a4_finale_room1_a00 "<clr:255,200,109>Witamy panie, witamy."
