@@ -1,4 +1,5 @@
-📝NOTE FOR DEVS: conver subtitles (``subtitles_polish.dat``) yourself if you want to implement the newest version in to the game.
+📝NOTE FOR DEVS: compile subtitles yourself if you want to implement the newest version in to the game.
+if you are a regular user and you want to compile subtitles too, i made an easy to use batch script [here](https://gist.github.com/kyoshuske/4b7c3e92f2293bf2eb731ee399482057)
 
 **Portal Revolution** polskie tłumaczenie zrobione przez odlotowy_ser, kyoshuske, DeBondor i enderek
 
