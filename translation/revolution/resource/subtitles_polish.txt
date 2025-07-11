@@ -506,7 +506,7 @@ Revo_Core1.sp_a4_schrodinger_intro_10 "<clr:105,154,192>Nie winię cię za to, �
 Revo_Core1.sp_a4_schrodinger_intro_11 "<clr:105,154,192>Nie widziałaś co ona zrobiła."
 Revo_Core1.sp_a4_schrodinger_intro_12 "<clr:105,154,192>To znaczy, ja też nie... ale zapisy są niepokojące."
 Revo_Core1.sp_a4_schrodinger_intro_13 "<clr:105,154,192>Przypieczętowanie losu każdego człowieka w Enrichment Center zajęło jej mniej niż sekundę."
-Revo_Core1.sp_a4_schrodinger_intro_14 "<clr:105,154,192>Nigdy nie wiedziałam czemu daliśmy jej neurotoksyczne."
+Revo_Core1.sp_a4_schrodinger_intro_14 "<clr:105,154,192>Nigdy nie wiedziałam czemu daliśmy jej neurotoksynę."
 Revo_Core1.sp_a4_schrodinger_intro_20 "<clr:105,154,192>Ja tylko.."
 Revo_Core1.sp_a4_schrodinger_intro_21 "<clr:105,154,192>Chciałabym tylko wrócić, wiesz?"
 Revo_Core1.sp_a4_schrodinger_intro_22 "<clr:105,154,192>I poprawić oba błędy."
